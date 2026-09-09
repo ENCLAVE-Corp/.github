@@ -6,3 +6,4 @@
 
 🎮[Unity репозиторий](https://github.com/ENCLAVE-Corp/MIREA-AR-Map)
 ⚙️[Backend репозиторий](https://github.com/ENCLAVE-Corp/MIREA-AR-API)
+📆 [Таблица задач](https://github.com/orgs/ENCLAVE-Corp/projects/1)
